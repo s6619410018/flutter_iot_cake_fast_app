@@ -1,8 +1,9 @@
 ## UI Ouly HomeUi, SigninUi, SignupUi
-<img width="250" src="https://github.com/user-attachments/assets/e8b7012b-564e-40f2-8262-b34c7b3dee06" />
+<img width="250" src="https://github.com/user-attachments/assets/17edf848-676b-443f-b800-0fa321d5c9ee" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="250" src="https://github.com/user-attachments/assets/9f007d7c-f8a2-47e7-9d34-9cd79828bbc5" />
+<img width="250" src="https://github.com/user-attachments/assets/7db19fd5-f3cf-43fc-bea9-7c2cacc2f6e8" />
 <br /><br /><br />
-<img width="250" src="https://github.com/user-attachments/assets/cd78542f-6cb6-4071-8942-1bcebf906db4" />
+<img width="250" src="https://github.com/user-attachments/assets/7a51fbb1-bcc8-4ee8-9938-bbc140c7e64d" />
+
 
 
