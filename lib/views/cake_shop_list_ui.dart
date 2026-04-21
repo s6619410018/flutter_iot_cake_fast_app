@@ -134,7 +134,7 @@ class _CakeShopListUiState extends State<CakeShopListUi> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: const Color.fromARGB(255, 235, 165, 249),
-        title: Text("cakekee", style: TextStyle(color: Colors.white)),
+        title: Text("cake", style: TextStyle(color: Colors.white)),
         centerTitle: true,
       ),
       body: Center(

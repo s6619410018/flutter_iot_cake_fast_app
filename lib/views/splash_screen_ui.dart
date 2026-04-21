@@ -36,7 +36,7 @@ class _SplashScreenUiState extends State<SplashScreenUi> {
             children: [
               SizedBox(height: 100),
               Text(
-                "Cakekee",
+                "Cake",
                 style: TextStyle(
                   fontSize: 35,
                   fontWeight: FontWeight.bold,
@@ -45,7 +45,7 @@ class _SplashScreenUiState extends State<SplashScreenUi> {
               ),
               SizedBox(height: 5),
               Text(
-                "หม่ำหม่ำเค้กกี้",
+                "เค้กกกก",
                 style: TextStyle(
                   fontSize: 25,
                   fontWeight: FontWeight.bold,
